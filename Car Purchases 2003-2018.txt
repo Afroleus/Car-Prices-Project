@@ -1,0 +1,37 @@
+Car Purchases 2003-2018
+
+Objective: To view the price of used car prices from 2008 to 2017 for Europe
+
+Data Used:
+car_prediction_data.csv
+
+Data Tidying:
+-Prices need to be in the thousands for the graphs
+-Euros need to be used (for both Selling Price and Present Price)
+-Car Name needs a Manufacturer
+
+Exploration:
+-European car dataset used
+- Selling Price to Present Price is an important connection
+-Owner, Fuel Type not as important in comparison
+- Transmision is though
+
+Analysis:
+- From 2008 to 2017, the used car purchasing price of automatics stayed consistantly higher than the manuals, peaking in 2010 for the manuals and 2012 for the automatics respectively. Average and Median Driven Kilometers in 2010 for manuals were at 39,000 and 39,790, which was at its lowest point before continuing a downward trend after 2013. In comparison, Automatics were being driven at a higher rate in 2012. The Average and Median Kilometers Driven were at 96,854 and 96,854, the highest point before dropping sharply into 2017. The data is inconsistent outside those years, and it would suggest that automatic prices will continue to slowly rise within europe even though average and median kilometers driven will also continue to decrease. Manual Prices on the other hand will continue to decrease even though average miles driven will also decrease. 
+
+Audience:
+-Average TV News Watcher
+-Automotive Company CEO
+-Used Car Salesmen
+
+Insights:
+- manual vs auto per year 
+- purchase price vs selling price (for that year) (x)
+
+Summarization:
+- From 2008 to 2017, due to depreciation and miles driven, the average selling price of a automatic vs its , although higher in inital purchase price, was about half its purchase price until 2015, when the gap between selling and purchasing price began to close.
+- Inversely, average and median Kilometers Driven overally decreased from 2008 to 2017 for both automatics and manuals. 
+- Data is limited from 2007 to 2018, and there are null fields in both 2007 and 2018
+
+Site Hosted: Tableau Public
+Programs used: Tableau Public
